@@ -1,0 +1,7 @@
+node_modules
+.env
+.encryptedKey.json
+SimpleStorage_sol_*
+.notes.md
+.DS_Store
+
